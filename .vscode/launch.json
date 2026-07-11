@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "multiplicationwhile",
+            "request": "launch",
+            "mainClass": "multiplicationwhile",
+            "projectName": "assigmentsss_985e409f"
+        },
+        {
+            "type": "java",
             "name": "loop",
             "request": "launch",
             "mainClass": "loop",
