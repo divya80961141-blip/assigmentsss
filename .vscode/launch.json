@@ -6,23 +6,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "whileloop",
+            "name": "oddnumberwhile",
             "request": "launch",
-            "mainClass": "whileloop",
-            "projectName": "assigmentsss_985e409f"
-        },
-        {
-            "type": "java",
-            "name": "forloop",
-            "request": "launch",
-            "mainClass": "forloop",
-            "projectName": "assigmentsss_985e409f"
-        },
-        {
-            "type": "java",
-            "name": "for2",
-            "request": "launch",
-            "mainClass": "for2",
+            "mainClass": "oddnumberwhile",
             "projectName": "assigmentsss_985e409f"
         },
         {
@@ -30,6 +16,34 @@
             "name": "loop1",
             "request": "launch",
             "mainClass": "loop1",
+            "projectName": "assigmentsss_985e409f"
+        },
+        {
+            "type": "java",
+            "name": "evenloop",
+            "request": "launch",
+            "mainClass": "evenloop",
+            "projectName": "assigmentsss_985e409f"
+        },
+        {
+            "type": "java",
+            "name": "evenloop1",
+            "request": "launch",
+            "mainClass": "evenloop1",
+            "projectName": "assigmentsss_985e409f"
+        },
+        {
+            "type": "java",
+            "name": "oddnumberfor",
+            "request": "launch",
+            "mainClass": "oddnumberfor",
+            "projectName": "assigmentsss_985e409f"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
             "projectName": "assigmentsss_985e409f"
         },
         {
