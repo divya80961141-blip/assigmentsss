@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "assigmentsss_985e409f"
+        },
+        {
+            "type": "java",
             "name": "multiplicatiofor",
             "request": "launch",
             "mainClass": "multiplicatiofor",
