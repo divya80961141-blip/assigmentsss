@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "multiplicatiofor",
+            "request": "launch",
+            "mainClass": "multiplicatiofor",
+            "projectName": "assigmentsss_985e409f"
+        },
+        {
+            "type": "java",
             "name": "oddnumberwhile",
             "request": "launch",
             "mainClass": "oddnumberwhile",
