@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "assigmentsss_985e409f"
+        },
+        {
+            "type": "java",
             "name": "forloop",
             "request": "launch",
             "mainClass": "forloop",
