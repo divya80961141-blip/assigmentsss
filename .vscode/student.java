@@ -3,7 +3,7 @@ public  class student{
     String  Name;
 
     int age;
-
+    
      student(){
       Name= "divya";
       age = 19;
@@ -12,6 +12,7 @@ public  class student{
     void Name()
     {
         System.out.println(Name);
+
     }
     void age(){
         System.out.println(age);
