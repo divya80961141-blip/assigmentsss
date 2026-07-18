@@ -5,9 +5,9 @@ String model;
 public carclass(String brand ,String model)
 {
 
-    this.brand;
+    this.brand=brand;
 
-    this.model;
+    this.model=model;
 
 }
 void brand(){
